@@ -1,0 +1,5 @@
+.app-banner{
+    height: 100vh;
+    width:40%;
+    background: linear-gradient(180deg, #3592FF 0%, #1A28A3 100%);
+}
