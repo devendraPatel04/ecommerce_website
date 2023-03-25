@@ -1,4 +1,4 @@
-import './App.css';
+// import './App.css';
 import Login from './pages/login';
 
 import "bootstrap/dist/css/bootstrap.min.css";
