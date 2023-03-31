@@ -17,10 +17,13 @@ const LoginMain = () => {
                 </div>
 
                 <div className="mtb-10 linkblock">
-                    <a href="#/" className="forgot-link">Forgot Password</a>
+                    <a href="#/" className="forgot-link noDecoration">Forgot Password</a>
                 </div>
                 <div className="mtb-10">
                     <button className="m-auto bnt">Submit</button>
+                </div>
+                <div className="mtb-10 text-center">
+                    <a href="#/" className="noDecoration">Don't have Account? Create new</a>
                 </div>
             </div>
         </div>
