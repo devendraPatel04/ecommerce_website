@@ -1,0 +1,40 @@
+
+
+.containerHeader{
+    width: 100vw;
+    min-height: 50px;
+    /* border:2px solid black; */
+    display: flex;
+    justify-content: space-around;
+    /* padding :5px; */
+    background-color: rgb(245, 226, 228);
+}
+
+.left,.right{
+    padding: 10px;
+}
+
+.inputSearch{
+    width:30vw;
+}
+
+.search{
+    margin-left: 2px;
+    /* border:2px solid black;  */
+    padding: 3px;
+    background-color: rgb(223, 174, 181);
+    cursor: pointer;
+}
+
+.right{
+    display: flex;
+}
+
+
+.headerIcons{
+   cursor: pointer;
+}
+
+.marginLeft20{
+    margin-left: 20px;
+}

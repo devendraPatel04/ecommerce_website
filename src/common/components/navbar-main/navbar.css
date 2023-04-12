@@ -1,0 +1,63 @@
+.NavContainer{
+    display: flex;
+    margin-top:5px;
+    background-color: blue;
+    justify-content: space-around;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    padding: 13px;
+    padding-bottom: 0px;
+}
+
+.left-part{
+   
+}
+
+.left-part li{
+    margin:0 10px;
+}
+
+.left-part li a{
+    color:white;
+    text-decoration: none;
+}
+
+.left-part li a:hover{
+    background-color: rgb(9, 9, 124);
+}
+
+a:active{
+    background-color: rgb(9, 9, 124);
+}
+
+.right-part{
+    display: flex;
+    padding: 13px;
+    padding-bottom: 0px;
+}
+
+.navbtn{
+    margin-left: 10px;
+}
+
+.offers-text{
+    cursor: pointer;
+}
+
+.offers-text span{
+    color:white;
+    margin: 0 3px;
+}
+
+button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 128);
+    border-style:none ;
+}
+
+button:hover{
+    background-color: rgb(9, 9, 124);
+}

@@ -23,7 +23,7 @@ const LoginMain = () => {
                     <button className="m-auto bnt">Submit</button>
                 </div>
                 <div className="mtb-10 text-center">
-                    <a href="#/" className="noDecoration">Don't have Account? Create new</a>
+                    <a href="/register" className="noDecoration">Don't have Account? Create new</a>
                 </div>
             </div>
         </div>
