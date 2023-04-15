@@ -1,0 +1,32 @@
+.popular-offers-container{
+    width:80vw;
+    /* height: 50px; */
+    margin: 8px auto;
+    /* background-color: brown; */
+}
+
+.cont1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ul-conatiner1{
+    display: flex;
+    margin-left: 0px;
+    padding-left: 0px;
+    width: 100%;
+    /* flex-direction: row; */
+}
+
+.mobile-range ul li a{
+    text-decoration: none;
+    color: rgb(160, 151, 151);
+}
+
+.ml10{
+    margin-left: 20px;
+}
+
+.mobile-range ul li a:hover{
+    color: black;
+}

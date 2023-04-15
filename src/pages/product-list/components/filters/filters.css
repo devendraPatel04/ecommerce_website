@@ -1,0 +1,61 @@
+.filters-heading{
+    font-size: 18px;
+    line-height: 21px;
+    color: #1E2228;
+    font-weight: bold;
+}
+.filters-main{
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 20px;
+}
+.brands-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.filter-section-heading{
+    font-size: 14px;
+    line-height: 16px;
+    color: #1E2228;
+    font-weight: bold;
+    margin: 0px;
+}
+.pink-link{
+    font-size: 12px;
+    line-height: 14px;
+    text-align: right;
+    color: #FF2C91;
+}
+
+.brands-options, .price-top{
+    margin: 20px 0;
+}
+
+.brands-option{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.brands-option span {
+    margin-left: 5px;
+    font-size: 13px;
+}
+.brands-option span {
+    margin-left: 10px;
+    font-size: 13px;
+}
+
+hr.filters-separator{
+   background: #FEFEFE;
+    border: 1px solid #E9E9E9;
+    margin: 20px 0;
+}
+.custom-price-value{
+    font-size: 13px;
+    line-height: 22px;
+    color: #1E2228;
+    font-weight: bold;
+}
