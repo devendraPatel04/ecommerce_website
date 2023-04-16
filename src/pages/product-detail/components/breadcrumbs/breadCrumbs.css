@@ -1,0 +1,5 @@
+nav .breadcrumb .breadcrumb-item a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}

@@ -1,0 +1,15 @@
+.body-main{
+    background: #f5f5f5bf;
+    padding: 20px 0;
+    min-height: 500px;
+}
+
+.product-section{
+    background: #FFFFFF;
+    border-radius: 8px;
+    min-height: 300px;
+}
+
+.paddingLeft30{
+    padding-left: 30px;
+}
